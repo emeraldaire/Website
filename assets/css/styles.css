@@ -1,0 +1,135 @@
+.img-fluid {
+  max-width: 50%;
+  margin-top: 15px;
+}
+
+.article-header-text {
+  margin-top: 10px;
+  padding-top: 0px;
+}
+
+.text-center.service-intro {
+  margin-bottom: 0px;
+}
+
+.hvac-service {
+  background-color: rgb(241,243,248);
+  padding-top: 17px;
+  margin-top: 0px;
+  margin-left: 10px;
+}
+
+.col.text-center.service-column {
+  margin: 0px 0px 0px 0px;
+  padding: 0px;
+}
+
+.h4, h4 {
+  font-family: 'Jost';
+}
+
+.h3, h3 {
+  font-family: 'Jost';
+  font-weight: 600;
+}
+
+.row.services-index {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+
+
+.img-fluid.service-index-image {
+  vertical-align: middle;
+  margin-bottom: 10px;
+}
+
+.service-small {
+  height: 550px;
+  margin: 0 0 10px 10px;
+  padding: 0;
+  text-align: center;
+}
+
+.service-heading {
+  height: 800px;
+  margin: 0 0 10px 10px;
+  padding: 0;
+  text-align: center;
+}
+
+.design-build-heading {
+  height: 700px;
+  margin: 0 0 10px 10px;
+  padding: 0;
+  text-align: center;
+}
+
+
+.text-dark-bg {
+  color: white;
+}
+
+
+
+.service-lower-text {
+  padding-top: 15px;
+}
+
+
+.link-text {
+  font-size: 1.25em;
+}
+
+.hvac-service-video {
+  margin-right: 10px;
+}
+
+.service-header-thin {
+  font-weight: lighter;
+}
+
+
+
+.service-index-link {
+  margin-bottom: 0px;
+}
+
+#service-index-img {
+  vertical-align: middle;
+  border-style: none;
+  height: 70%;
+  width: auto;
+}
+
+.construction-index-link {
+  padding-top: 57px;
+  align-self:left;
+}
+
+.service-index-link.construction-links {
+  margin-top: 0;
+}
+
+.construction-lower-text {
+  padding-top: 250px;
+}
+
+.service-index-header {
+  font-size: 2em;
+}
+
+.consulting-lower-text {
+  padding-top: 35px;
+}
+
+#services-index-grid {
+  padding-right: 10px;
+}
+
+#services-index-column {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
